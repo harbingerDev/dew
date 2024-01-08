@@ -1,1 +1,20 @@
-{"dev":{},"qa":{},"integration":{},"staging":{},"uat":{},"prod":{}}
+{
+  "dev": {
+    "data_139215": "automation tool for ui and api"
+  },
+  "qa": {
+    "data_139215": "automation tool for ui and api"
+  },
+  "integration": {
+    "data_139215": "automation tool for ui and api"
+  },
+  "staging": {
+    "data_139215": "automation tool for ui and api"
+  },
+  "uat": {
+    "data_139215": "automation tool for ui and api"
+  },
+  "prod": {
+    "data_139215": "automation tool for ui and api"
+  }
+}
